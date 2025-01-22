@@ -10,7 +10,7 @@ Use a `t2.medium` instance type or equivalent.
 Upon login to the instance to start the minikube use following command
 
 ```
-minikube start --driver=docker 
+minikube start --driver=docker --force
 ```
 setup complete.
 
